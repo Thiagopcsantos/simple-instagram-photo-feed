@@ -1,0 +1,37 @@
+.barra{
+    background: white;
+}
+.cuerpo{
+    width: 600px;
+    margin: 0 auto 10px auto;
+    
+}
+h2{
+    display: inline;
+}
+#data{
+    display: inline;
+    margin-left: 398px;
+}
+img{
+    width: 100%
+}
+.post{
+    background: white;
+    
+
+}
+.subtitulo{
+    display: inline
+}
+body{
+    background: gray;
+    margin:0;
+}
+#descripcion{
+    padding:10px;
+    margin:0;
+}
+h1{
+    margin: 0 0 10px 0;
+}
